@@ -1,0 +1,89 @@
+PART2::
+index.html::
+section class feature section...div class container(bootstrap)
+div class row and then [div class col-6 col-lg-3 mb-5(sizes)
+div class card features box(BOOTSTRAP)(card is bootstrap)
+text center content to the center of the screen 
+div class feature icon border-- feature icon ...load image and all 
+now feature text  ]//THIS IS FOR ONE CARD LIKE IN THE FEATURE SECTION SAME THING DONE FOR THE OTHER CARDS IN THE FEATURE SECTION 
+HTML OF THE FEATURE BOX DONE 
+
+NOW CSS
+FEATURE_SECTION.FEATURES-BOX--BG COLOR BORDER PADDING AND ALL GIVEN 
+now to feature icon border ....
+now to feature icon display flex and align-items center h toh 
+now image css property 
+now h3 of feature box text h 
+now hover m css added 
+
+NOW ABOUT SECTION IN INDEX HTML
+section created landing about section(any name) div class container div class row align items-center(bootstrap class)
+now bootstrap class for various sized screens written in here 
+now write the content in a div 
+predefined title p anchor button all css already written as same div type name h and css already given 
+
+NOW CSS
+LANDING SEC BACKGROUND AND ALL ADDED 
+P OF LANDING SEC MODIFIED (RESPONSIVENESS ALREADY ADDED IN THE FIRST CASE SAME NAME BODY HTML MODIFIED FOR ALL)
+
+NOW HTML::PRODUCT SECTION WRITTEN 
+FIRST TITLE SECTION OF THE PRODUCT SECTION OF THE PRODUCT SECTION WRITTEN ]
+NOW DIV CLASS ROW MX-0 IS WRITTEN 
+CARDS OF VARIOUS PRODUCTS AVAILABLE 
+(IMAGE AND ALL LOADED IN HERE)
+d-flex align items center justify content between (space in between and align items in the center )
+SIMILARLY MULTIPLE CARDS MADE
+
+NOW CSS::FOR THE PROD SECTION 
+CSS GIVEN TO PRODUCT CARD ..STYLING OF IMG CLASS IN ALL THE CARDS 
+H3 IS THE NAME OF THE PRODUCT AND SPAN IS GIVEN TO DETAIL THE PRODUCT 
+(text-decoration :line-through cut it type dikh rha)
+NOW STYLING OF PROD DETAIL(WE WANT BUTTON TO COME ON HOVERING)
+bottom:-22rem(hover krne se up m aaye)
+
+on hover of this above make the bottom 0 just 
+
+NOW HTML::TESTIMONIAL SEC::SAME CLASSES AND WRITE PREDEFINED CSS WRITTEN ALREADY SO KEEP SAME CLASS
+TAKE A NEW DIV ROW JUSTIFY CONTENT CENTER  AND PASTE THE CAROUSEL INDICATOR CODE FROMM THE BOOTSTRAP SITE 
+//MODIFY IT OFC WITH UR DATA 
+ADD DETAILS DESC SELF EXPLAINATORY SEE THE CODE 
+
+CSS 
+ADDED TO TESTIMONIAL SECTION BG COLOR AND PADDING AND ALL FROM THE BOTTOM 
+ADDED TO CAROUSEL INDICATOR OF TESTIMONIAL SECTION 
+CAROUSEL INDICATORS BUTTON WOH SLIDER TO CAROUSEL TYPE MODIFIED (WIDTH HEIGHT BORDER RADIUS)
+CARDS OF EACH TESTIMONIAL SECTIONS DESIGNED IN HERE 
+PROFILE BOX MEANS THE IMAGE IN THE TESTIMONIALS MODIFIED 
+
+NEXT AND PREV OF THE SLIDER EXTRA CODE COPIED REMOVED(RESPONSIVE ALREADY MADE BY THE BODY AND HTML SPECIFIED IN THE RESPONSIVE STYLE SHEET AT ONCE 
+
+
+NOW GALLERY SECTION ::
+CONTAINER ROW AND COL-12 TEXT-CENTER PB-5 ..H2 CLASS AND P CLASS ADDED TO IT 
+INSIDE THE ROW CONTAINER ONLY DIV CLASS BOOTSTRAP ONLY 
+PHOTOS IMG AND DATA-LIGHTBOX=IMAGE DATA-TITLE=LEMON(LIGHTBOX PLUGIN USED FROM THE GITHUB SITE)
+GIVE CLASS TO IMG-FLUID ROUNDED-3 TO THE IMAGE BOOTSTRAP CLASSES ALL
+(DONE FOR ALL IMAGES)(PLACED IN DIFFERENT DIV COL-SM-6 COL-LG-4 MB-4)
+
+CSS WRITTENT TO MAKE HEIGHT OF ALL FRUITS OR VEGGIES EQUAL 
+HEIGHT AND WIDTH 100 PECENT OBJECT FIT COVER(CSS ADDED) TO MAKE HEIGHT AND SIZE OF IMAGES EVERYWHERE EQUAL 
+
+footer wrapper mt-3 mb-md-0
+div class container px-5 px-lg-0
+self explainatory in here comapny details in p new self defined in here 
+i class and all are the font aweson icons and all in the website only 
+container-fluid copyright-section
+write a p and href and all 
+
+NOW CSS WRITTEN FOR THE FOOTER 
+.footer_wrapper::background:url image positon and padding from top and bottom
+now to h5 given color font size and margin bottom (h5 is the titles in the footers)
+now to ul li margin bottom and list style is given
+now company details(new class created)--font size 
+
+link widget li a and p used for wrapping and all(the links of about product andall woh sab)webkit and all added for safari and chrome
+
+ALL OTHER EXTRA CSS ADDED TO THE FOOTER 
+SOCIAL NETWORK AND WHEN U HOVER OVER TO THE A AND USE IT CSS ADDED U CAN SEE ITS JUST UR MODIFICATION AND INPUT EFFECT AS PER THE DEMO SHOWN TO US 
+
+CAN SEARCH FOR SOME INFOS IN THE NET IF U DONT UNDERSTAND AND READ AND TRY TO UNDERSTAND THE CODE MORE THAN ONCE,,
