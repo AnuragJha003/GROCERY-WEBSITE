@@ -1,0 +1,82 @@
+PART1::
+LIGHTBOX FOR POPUP AND ANIMATION IN IMAGES 
+STYLES.CSS MAIN CSS
+RESPONSIVE CSS FOR RESPONSIVE 
+IMAGES///
+JS M LIGHHTBOX.JS AND THE MAIN.JS IS THE MAIN JS
+//5 OR 6 PAGES ARE THE HTML PAGES FOR THE MULTI PAGE SITE 
+TILL HERE IS THE PROJECT SETUP
+INDEX.HTML::VIEWPORT MUST FOR RESPONSIVE 
+LINKING BOOTSTRAP AND LIGHTBOX AND FONTAWESOME CDN BY LINKS 
+AND MULTILPLE CSS PAGES LINKED WITH THE HTML 
+
+JQUERY USED FOR USING THE PLUGINS WHICH WE R USING FOR THE GALLERY IMAGES DIRECT LINKS ARE AVAIL IN NET
+//BOOTSTRAP JS POPPER AND BOOTSTRAP.JS 
+LAST M MAIN.JS(SAME IN ALL PAGES THIS SETUP )
+GET FROM NET THE BOOTSTRAP CDN AND THE JS POPPER AND BOOTSTRAP MIN LINK DIRECTLY COPY THE LINK IN THE PAGE
+LIGHTBOX DIRECTLY COPY FROM THE GITHUB THE CSS AND JS CODE OF IT 
+(USED FOR ANIMATION AND POP UP EFFECT OF IMAGES AS IN GALLERY IN REAL LIFE WEBSITYES)
+ICONS--FONT AWESOME ICONS GG 
+
+
+NOW NAVBAR SECTION::
+INSIDE THE HEADER OF THE BODY 
+CLASS CONTAINER AND COPY THE NAVBAR CODE FROM THE BOOTSTRAP SITE DIRECTLY (MODIFY AS PER UR USE SEE IT)
+ADD THE IMAGE AND NAVBAR TOGGLER IN SMALLER SCREEN ADDED TO IT RESPONSIVE M HAMBURGER ICON TYPE H GG
+MX-AUTO BOOTSTRAP FOR CENTERING THE CONTENT IN HERE 
+LINKING VARIOUS HTML PAGES IN HERE IN THE NAVBAR #(HOME) AND NAV-LINK ACTIVE MATLAB JIS PAGE M H 
+<li class > is the nav-item in here 
+HEADER_RIGHT EKDUM RIGHT OF SCREEN M JAA RHA (RIGHT OF NAVBAR)
+CLASS TEXT LG-END (FOR LARGE SCREEN TYPES)
+[CALL PHONE CONTACT ETC PART]
+
+NOW CSS FOR THIS HTML::2 FONT FAMILIES IMPORTED 
+BROWSER SUPPORT WEBKIT AND MOZ ALL OTHER CSS FOR BY DEFAULT 
+ROOT::(document root elmnt)html elmnt css given as required 
+(BASICALLY VARIABLES DECLARED WITH A CERTAIN VALUES USED THROUGHOUT THE CSS JUST CALLING THE VARAIBLES)
+html base m hi rem and em works as it is the root of the dom.by default 10px means like 1rem 
+//basic main defintion in here 
+h1...h6 and p margin 0
+h1...h6 individula css given ...rem works on the root always ...var(--root m variable name)
+anchor a in active hover focus and all css in different modes 
+
+Scrollbar features given ::-webkit-scrollbar{..}
+track white color and thumb jab scroll krte green h 
+
+.main-btn:::in all templates this button with the css will be used 
+.........:hover ::::extra css which comes when we hover over it 
+(common for al pages here)
+a section made before divison(this will be for all section tag used anywhere)
+.section-title(section ka title is used in here) with the CSS in here 
+.section-subtitle.............................................
+
+classes of all html pages of section grouped together 
+//background image added via url (position repeat and all)
+min height auto assigned 
+
+NOW NAVBAR CSS WRITTEN--(SIMULTANEOUSLY REFER THE HTML PAGE)
+header..position absolute matlab fixed type h..width top and left all fitted....z-index 2
+header.navbar---background url repeat size padding and all given 
+header.navbar-brand::logo one h yeh ...width and margin-top set 
+header.navbar nav nav.link colors of text and made uppercase and font size and weights modified
+nav navlink modifications made on active and hover effect on it 
+toggler for the right hamburger icon types...then focus and other effect css on it 
+then header_right m modifcation joh contact call us and all likha h 
+scrolled class created and vlaue given..Position fixed by JS later
+
+NOW RESPONSIVESTYLE.CSS::
+MEDIA QUERY...max width matlab yahan tak hi yeh sab effect dikhega 
+CHANGES TO THE ALREADY WRITTEN CSS AS IT IS IN THE MEDIA QUERY AS PER SIZE AND RESP U WANT 
+
+
+NOW HTML M BANNER SECTION(SECTION BEFORE DIV)
+SLIDER CODE WITH CAPTION COPIED FROM BOOTSTRAP MODIFICATION SMJH LO U CAN SEE
+U CAN SEE CAROUSEL ITEM ACTIVE AND CAROUSEL CAPTIO UNDER BANNER CONTENT WITH H1,H3,P AND THEN AN ANCHOR TAG WITH A BUTTON IN HERE 
+
+NOW CSS TO IT ADDED (BANNER SECTION ADDED AND TO CAROUSEL ITEM )NOW CAROUSEL CAPTION M CSS ADDED COLOR LEFT RIGHT PADDING AND ALL
+CSS ADDED TO DIFFERENT PARTS OF CAPTION H3 P AND ALL AS PER THE DESIGN WHICH WOULD BE GIVEN OR U WANT 
+
+NOW RESPONSIVE FOR THE BANNER SECTION MEDIA QUERY TYPES (vh means view height)
+
+MAIN.JS M NAVBAR FIXED AND NAV CLOSE JS (COMMENTS IN THE JS FILE ITSELF) 
+
